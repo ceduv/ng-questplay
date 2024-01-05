@@ -5,7 +5,7 @@ contract HelloGuardian {
 
     /// @return "Hello Guardian"
     function hello() external pure returns (string memory) {
-        // CODE HERE
+        // CODE HERE.
         return "Hello Guardian";
     }
 
