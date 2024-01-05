@@ -1,0 +1,10 @@
+{
+    "name": "build-tutorial",
+    "version": "2.0.0",
+    "scripts": {
+        "test": "hardhat test --network hardhat && forge test",
+        "test:hardhat": "hardhat test --network hardhat"
+    },
+    "author": "",
+    "license": "MIT"
+}
